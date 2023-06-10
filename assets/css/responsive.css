@@ -1,0 +1,396 @@
+@media(max-width:786px){
+    .container {
+    overflow-x: hidden;
+}
+.main-bg .navbar .collapse .navbar-nav{
+    height: 330px;
+    width: 100%;
+    background: #171717;
+
+
+}
+
+}
+/*-------------------------------*/
+@media(max-width:540px){
+
+.main-bg .crd-sec{
+    margin-top: 50px;
+}
+.main-bg  .crd-sec .container .crds .crd-bg .crd h4{
+    font-size: 26px;
+}
+.crd-sec .container .crds .crd-bg .crd p{
+    font-size: 17px;
+}
+.main-bg .logo-sec{
+    margin-top: 280px;
+    text-align: center;
+}
+.crd-sec .container .crds .tkn-sec .lding-1 .prc{
+    position: relative;
+    left: 350px;
+}
+.crd-sec .container .crds .tkn-sec .lding-2 .prc{
+     position: relative;
+    left: 345px;
+
+}
+ .crd-sec .container .crds .tkn-sec .lding-3 .prc{
+     position: relative;
+    left: 320px;
+
+ }
+ .crd-sec .container .crds .tkn-sec .lding-2{
+    margin-top: 44px;
+ }
+
+.crd-sec .container .crds .tkn-sec .lding-3{
+    margin-top: 50px;
+ }
+
+ .logo-sec .container .lg-bg .img{
+    text-align: center;
+    position: relative;
+    left: 30px;
+ }
+.main-bg .nd2{
+    text-align: center;
+    z-index: 2;
+}
+ .nd2 .container .img-2 .h{
+    font-size: 35px;
+    position: relative;
+    top: -50px;
+ }
+.nd2 .container  h3{
+    position: relative;
+    top: 15px;
+    font-size: 26px;
+}
+.nd-3{
+    text-align: center;
+    z-index: 1;
+    margin-top: 30px;
+}
+.nd-3  .img-3rd{
+    position: relative;
+    top: 79px;
+    text-align: center;
+}
+.road-sec {
+    text-align: center;
+    mar
+}
+.road-sec .container .col2 ul li {
+    
+    list-style: none;
+}
+.container {
+    margin-top: 20PX;
+}
+.container .diclmr-sec .cntt p{
+    width: 500px;
+}
+.road-sec .container .rhd{
+    position: relative;
+    left: 0px;
+    top: -120px;
+    z-index: 1;
+}
+.main-bg .navbar{
+    margin-top: -10px;
+}
+}
+/*-------------------------------*/
+@media(max-width:414px){
+
+.main-bg .crd-sec{
+    margin-top: 50px;
+}
+.main-bg  .crd-sec .container .crds .crd-bg .crd h4{
+    font-size: 20px;
+}
+.crd-sec .container .crds .crd-bg .crd p{
+    font-size: 14px;
+}
+.main-bg .sip .s{
+    
+    position: relative;
+    left: 0px;
+    
+    
+ }
+.main-bg .logo-sec{
+    margin-top: 280px;
+    text-align: center;
+}
+.crd-sec .container .crds .tkn-sec .lding-1 .prc{
+    position: relative;
+    left: 230px;
+}
+.crd-sec .container .crds .tkn-sec .lding-2 .prc{
+     position: relative;
+    left: 225px;
+
+}
+ .crd-sec .container .crds .tkn-sec .lding-3 .prc{
+     position: relative;
+    left: 200px;
+
+ }
+ .crd-sec .container .crds .tkn-sec .lding-2{
+    margin-top: 44px;
+ }
+
+.crd-sec .container .crds .tkn-sec .lding-3{
+    margin-top: 50px;
+ }
+
+ .logo-sec .container .lg-bg .img{
+    text-align: center;
+    position: relative;
+    left: 30px;
+ }
+.main-bg .nd2{
+    text-align: center;
+}
+ .nd2 .container .img-2 .h{
+    font-size: 35px;
+    position: relative;
+    top: -50px;
+    left: 0px;
+ }
+.nd2 .container  h3{
+    position: relative;
+    top: 15px;
+    font-size: 26px;
+}
+.nd-3{
+    text-align: center;
+    z-index: 1;
+}
+.nd-3  .img-3rd{
+    position: relative;
+    top: 79px;
+    text-align: center;
+}
+.road-sec {
+    text-align: center;
+    mar
+}
+.road-sec .container .col2 ul li {
+    
+    list-style: none;
+}
+.container {
+    margin-top: 20PX;
+}
+.container .diclmr-sec .cntt p{
+    width: 370px;
+}
+.road-sec .container .rhd{
+    position: relative;
+    left: 0px;
+    top: -120px;
+    z-index: 1;
+}
+.main-bg .navbar{
+    margin-top: -10px;
+}
+}
+/*--------------------------*/
+@media(max-width:360px){
+
+.main-bg .crd-sec{
+    margin-top: 50px;
+}
+.main-bg  .crd-sec .container .crds .crd-bg .crd h4{
+    font-size: 17px;
+}
+.crd-sec .container .crds .crd-bg .crd p{
+    font-size: 13px;
+}
+.main-bg .sip .s{
+    
+    position: relative;
+    left: 0px;
+    
+    
+ }
+.main-bg .logo-sec{
+    margin-top: 280px;
+    text-align: center;
+}
+.crd-sec .container .crds .tkn-sec .lding-1 .prc{
+    position: relative;
+    left: 180px;
+}
+.crd-sec .container .crds .tkn-sec .lding-2 .prc{
+     position: relative;
+    left: 175px;
+
+}
+ .crd-sec .container .crds .tkn-sec .lding-3 .prc{
+     position: relative;
+    left: 152px;
+
+ }
+ .crd-sec .container .crds .tkn-sec .lding-2{
+    margin-top: 44px;
+ }
+
+.crd-sec .container .crds .tkn-sec .lding-3{
+    margin-top: 50px;
+ }
+
+ .logo-sec .container .lg-bg .img{
+    text-align: center;
+    position: relative;
+    left: 30px;
+ }
+.main-bg .nd2{
+    text-align: center;
+}
+ .nd2 .container .img-2 .h{
+    font-size: 35px;
+    position: relative;
+    top: -50px;
+    left: 0px;
+ }
+.nd2 .container  h3{
+    position: relative;
+    top: 15px;
+    font-size: 26px;
+}
+.nd-3{
+    text-align: center;
+    z-index: 1;
+}
+.nd-3  .img-3rd{
+    position: relative;
+    top: 79px;
+    text-align: center;
+}
+.road-sec {
+    text-align: center;
+    mar
+}
+.road-sec .container .col2 ul li {
+    
+    list-style: none;
+}
+.container {
+    margin-top: 20PX;
+}
+.container .diclmr-sec .cntt p{
+    width: 330px;
+}
+.road-sec .container .rhd{
+    position: relative;
+    left: 0px;
+    top: -120px;
+    z-index: 1;
+}
+.main-bg .navbar{
+    margin-top: -10px;
+}
+}
+/*===============================*/
+@media(max-width:320px){
+
+.main-bg .crd-sec{
+    margin-top: 50px;
+}
+.main-bg  .crd-sec .container .crds .crd-bg .crd h4{
+    font-size: 20px;
+}
+.crd-sec .container .crds .crd-bg .crd p{
+    font-size: 14px;
+}
+.main-bg .sip .s{
+    
+    position: relative;
+    left: 0px;
+    width: 300px;
+    
+    
+ }
+.main-bg .logo-sec{
+    margin-top: 280px;
+    text-align: center;
+}
+.crd-sec .container .crds .tkn-sec .lding-1 .prc{
+    position: relative;
+    left: 140px;
+}
+.crd-sec .container .crds .tkn-sec .lding-2 .prc{
+     position: relative;
+    left: 135px;
+
+}
+ .crd-sec .container .crds .tkn-sec .lding-3 .prc{
+     position: relative;
+    left: 110px;
+
+ }
+ .crd-sec .container .crds .tkn-sec .lding-2{
+    margin-top: 44px;
+ }
+
+.crd-sec .container .crds .tkn-sec .lding-3{
+    margin-top: 50px;
+ }
+
+ .logo-sec .container .lg-bg .img{
+    text-align: center;
+    position: relative;
+    left: 30px;
+ }
+.main-bg .nd2{
+    text-align: center;
+}
+ .nd2 .container .img-2 .h{
+    font-size: 35px;
+    position: relative;
+    top: -50px;
+    left: 0px;
+ }
+.nd2 .container  h3{
+    position: relative;
+    top: 15px;
+    font-size: 26px;
+}
+.nd-3{
+    text-align: center;
+    z-index: 1;
+}
+.nd-3  .img-3rd{
+    position: relative;
+    top: 79px;
+    text-align: center;
+}
+.road-sec {
+    text-align: center;
+    mar
+}
+.road-sec .container .col2 ul li {
+    
+    list-style: none;
+}
+.container {
+    margin-top: 20PX;
+}
+.container .diclmr-sec .cntt p{
+    width: 290px;
+}
+.road-sec .container .rhd{
+    position: relative;
+    left: 0px;
+    top: -120px;
+    z-index: 1;
+}
+.main-bg .navbar{
+    margin-top: -15px;
+}
+}
